@@ -18,6 +18,8 @@ Xcode 6.3 and iOS 8.0 SDK or later
 
 iOS 8.0 or later
 
+daldhalshdlas
+
 ## Written in Objective-C and Swift
 
 This sample is provided in both Objective-C and Swift. Both versions of the application have the exact same visual appearance; however, the code and structure may be different depending on the choice of language.
