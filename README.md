@@ -1,9 +1,13 @@
 # UICatalog: Creating and Customizing UIKit Controls (Obj-C and Swift)
+#########
 
+Calalsdhaskdhkahdkashsd
 This sample demonstrates how to use many views and controls in the UIKit framework along with their assorted functionalities. Refer to this sample if you are looking for specific controls or views that are provided by the system.
 
 Note that this sample also shows you how to make your non-standard views (images or custom views) accessible. Using the iOS Accessibility API enhances the user experience of VoiceOver users.
 
+
+asdasdasda
 You will also notice this sample shows how to localize string content by using the NSLocalizedString function. Each language has a "Localizeable.strings" file and this function refers to this file when loading the strings from the default bundle.
 
 ## Build Requirements
@@ -13,6 +17,8 @@ Xcode 6.3 and iOS 8.0 SDK or later
 ## Runtime Requirements
 
 iOS 8.0 or later
+
+daldhalshdlas
 
 ## Written in Objective-C and Swift
 
